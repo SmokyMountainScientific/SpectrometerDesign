@@ -1,5 +1,5 @@
 OpenSCAD programs for designing and building uv and vis spectrometers.
-More information and links to YouTube video demonstrations at SmokyMtSci.com. Optical elements and electronics for building uv and vis spectrometers can be purchased from this source as well.  
+More information and links to YouTube video demonstrations at SmokyMtSci.com. Compatible optical elements and electronics for building uv and vis spectrometers can be purchased from this source as well.  
 
 OpticsCalc1 program is used to define the geometry of a Crossed Czerny-Turner spectrometer body. Users can input parameters like the wavelength range desired, the number of lines per mm for the grating, the focal lengths of the mirrors used.  Running this program outputs position and angle parameters into the OpenSCAD Console pane.  
 
